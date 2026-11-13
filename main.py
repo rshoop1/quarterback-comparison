@@ -9,6 +9,8 @@ set_site_information(
     author="Ryan Shoop",
     description="Compare NFL quarterbacks using their 2025 season statistics.",
     sources="NFL.com 2025 Player Passing Statistics, FF Today 2025 Quarterback Statistics, and Drafter documentation.",
+    planning=[],
+    links=[],
 )
 
 hide_debug_information()
